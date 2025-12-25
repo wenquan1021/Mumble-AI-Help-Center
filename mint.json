@@ -4,6 +4,7 @@
   "colors": {
     "primary": "#4F46E5"
   },
+  "home": "index",
   "navigation": [
     {
       "group": "Mumble AI 101",
