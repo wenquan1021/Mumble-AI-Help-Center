@@ -1,5 +1,9 @@
 {
   "name": "Mumble Help Center",
+  "favicon": "/favicon.ico",
+  "colors": {
+    "primary": "#4F46E5"
+  },
   "navigation": [
     {
       "group": "Mumble AI 101",
