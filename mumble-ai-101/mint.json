@@ -1,0 +1,11 @@
+{
+  "name": "Mumble Help Center",
+  "navigation": [
+    {
+      "group": "Mumble AI 101",
+      "pages": [
+        "mumble-ai-101/what-is-mumble-ai"
+      ]
+    }
+  ]
+}
