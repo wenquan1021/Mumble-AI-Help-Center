@@ -1,19 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mumble Help Center",
+  "name": "Mumble AI Help Center",
   "colors": {
-    "primary": "#4F46E5"
+    "primary": "#3B82F6"
   },
   "navigation": {
-    "groups": [
-      {
-        "group": "Mumble AI 101",
-        "pages": [
-          "index",
-          "mumble-ai-101/what-is-mumble-ai"
-        ]
-      }
-    ]
+    "pages": ["index"]
   }
 }
