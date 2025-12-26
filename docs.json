@@ -8,7 +8,7 @@
   "navigation": {
     "groups": [
       {
-        "group": "Mumble AI 101",
+        "group": "mumble-ai-101",
         "pages": [
           "mumble-ai-101/what-is-mumble-ai",
           "mumble-ai-101/getting-started"
