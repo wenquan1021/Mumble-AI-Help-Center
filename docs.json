@@ -6,9 +6,10 @@
     "primary": "#3B82F6"
   },
   "navigation": {
+    "pages": ["index"],
     "groups": [
       {
-        "group": "mumble-ai-101",
+        "group": "Mumble AI 101",
         "pages": [
           "mumble-ai-101/what-is-mumble-ai",
           "mumble-ai-101/getting-started"
